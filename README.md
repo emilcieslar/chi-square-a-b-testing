@@ -4,7 +4,7 @@ Npm module for calculating chi-square test that gives us p-value for statistical
 
 ## Installation
 
-    `npm install --save-dev chi-square-a-b-testing`
+    npm install --save-dev chi-square-a-b-testing
 
 ## Usage
 

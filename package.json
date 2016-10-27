@@ -1,0 +1,27 @@
+{
+  "name": "chi-square-a-b-testing",
+  "version": "0.0.1",
+  "description": "Npm module for calculating chi-square test that gives us p-value for statistical significance with practical use in A/B testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilcieslar/chi-square-a-b-testing.git"
+  },
+  "keywords": [
+    "chi-square",
+    "statistical",
+    "significance",
+    "a/b",
+    "testing",
+    "p-value"
+  ],
+  "author": "Emil Cieslar <emil.cieslar@gmail.com> (http://emilc.cz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilcieslar/chi-square-a-b-testing/issues"
+  },
+  "homepage": "https://github.com/emilcieslar/chi-square-a-b-testing#readme"
+}
